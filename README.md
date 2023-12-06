@@ -1,9 +1,6 @@
 I'm Żaneta.
 
-My adventure with programming began in spring 2023, but I had been thinking about it for several years. 
-
-I finally 
-made a decision and am learning the Full Stack Developer course.
+I'm learning the Full Stack Developer course.
 
 My tools of choice for now are mostly: JavaScript, React, CSS, HTML.
 
