@@ -1,4 +1,4 @@
-I'm Żaneta.
+Hello!
 
 I'm learning the Full Stack Developer course.
 
