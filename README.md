@@ -2,7 +2,7 @@ Hello!
 
 I'm learning the Full Stack Developer course.
 
-My tools of choice for now are mostly: JavaScript, React, CSS, HTML.
+My tools of choice for now are mostly: JavaScript, React, Node, CSS, HTML.
 
 My experience: 
 * Group projects:
@@ -36,3 +36,14 @@ My experience:
 <a href="https://zanetamak.github.io/goit-react-hw-04-feedback">FEEDBACK WIDGET MADE WITH HOOKS</a> | <a href="https://github.com/zanetamak/goit-react-hw-04-feedback">REPO</a>
 
 <a href="https://zanetamak.github.io/goit-react-hw-04-images//">IMAGE FINDER FOR PIXABAY API WITH REACT HOOKS</a> | <a href="https://github.com/zanetamak/goit-react-hw-04-images">REPO</a>
+
+**NODE**
+
+<a href="https://zanetamak.github.io/goit-react-hw-04-images//">PHONEBOOK API</a> 
+
+TEAM PROJECT **REACT + NODE**
+
+<a href="https://github.com/kglanos/Kapusta-Backend">KAPUSTA WALLET BACKEND</a> 
+<a href="https://github.com/kglanos/Kapusta-Frontend">KAPUSTA WALLET FRONTEND</a> 
+
+
