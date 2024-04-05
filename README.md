@@ -44,6 +44,7 @@ My experience:
 TEAM PROJECT **REACT + NODE**
 
 <a href="https://github.com/kglanos/Kapusta-Backend">KAPUSTA WALLET BACKEND</a> 
+
 <a href="https://github.com/kglanos/Kapusta-Frontend">KAPUSTA WALLET FRONTEND</a> 
 
 
